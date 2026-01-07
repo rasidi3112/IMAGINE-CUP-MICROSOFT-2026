@@ -1,0 +1,102 @@
+{
+    "dithane_m45": {
+        "description": "Broad-spectrum contact fungicide for various fungal diseases.",
+        "application_method": "Spray evenly on all leaves",
+        "dosage": "2-3 g/liter water"
+    },
+    "antracol": {
+        "description": "Protectant fungicide for prevention of fungal diseases.",
+        "application_method": "Preventive spray before symptoms appear",
+        "dosage": "2 g/liter water"
+    },
+    "score": {
+        "description": "Systemic fungicide for leaf spot and rust diseases.",
+        "application_method": "Spray at first sign of symptoms",
+        "dosage": "0.5 ml/liter water"
+    },
+    "amistar_top": {
+        "description": "Premium systemic fungicide for controlling various fungi.",
+        "application_method": "Spray evenly",
+        "dosage": "0.5-1 ml/liter water"
+    },
+    "nordox": {
+        "description": "Copper-based fungicide for bacteria and fungi.",
+        "application_method": "Preventive spray",
+        "dosage": "2-3 g/liter water"
+    },
+    "ridomil_gold": {
+        "description": "Systemic fungicide for oomycetes like Phytophthora.",
+        "application_method": "Drench or spray",
+        "dosage": "2-3 g/liter water"
+    },
+    "regent": {
+        "description": "Systemic insecticide for stem borers and planthoppers.",
+        "application_method": "Spray or drench",
+        "dosage": "2 ml/liter water"
+    },
+    "confidor": {
+        "description": "Systemic insecticide for sucking pests.",
+        "application_method": "Spray or drench",
+        "dosage": "0.5-1 ml/liter water"
+    },
+    "decis": {
+        "description": "Pyrethroid insecticide for caterpillars and borers.",
+        "application_method": "Spray in the afternoon",
+        "dosage": "1-2 ml/liter water"
+    },
+    "prevathon": {
+        "description": "Modern insecticide for caterpillars with low toxicity to natural enemies.",
+        "application_method": "Spray evenly",
+        "dosage": "0.5-1 ml/liter water"
+    },
+    "demolish": {
+        "description": "Acaricide-insecticide for mites and leaf miners.",
+        "application_method": "Spray undersides of leaves",
+        "dosage": "0.5-1 ml/liter water"
+    },
+    "agrept": {
+        "description": "Bactericide for bacterial wilt diseases.",
+        "application_method": "Drench at stem base",
+        "dosage": "1-2 g/liter water"
+    },
+    "trichoderma": {
+        "description": "Biological agent for controlling soil-borne fungi.",
+        "application_method": "Drench to soil or mix with planting medium",
+        "dosage": "5-10 g/liter or 250 g/ha"
+    },
+    "beauveria": {
+        "description": "Entomopathogenic fungus for pest control.",
+        "application_method": "Spray in the afternoon",
+        "dosage": "5-10 g/liter water"
+    },
+    "metarhizium": {
+        "description": "Entomopathogenic fungus for caterpillars and borers.",
+        "application_method": "Spray or scatter",
+        "dosage": "5-10 g/liter or in bait"
+    },
+    "pgpr": {
+        "description": "Beneficial bacteria for root health and inducing resistance.",
+        "application_method": "Seed soak or drench",
+        "dosage": "5-10 ml/liter water"
+    },
+    "neem_oil": {
+        "description": "Botanical pesticide from neem seeds.",
+        "application_method": "Spray evenly",
+        "dosage": "3-5 ml/liter water + soap"
+    },
+    "biopestisida_daun": {
+        "description": "Homemade botanical pesticide for mild pests.",
+        "application_method": "Spray",
+        "dosage": "According to local recipe"
+    },
+    "gramoxone": {
+        "description": "Contact herbicide for weeds on bunds and empty land.",
+        "application_method": "Spray weeds, avoid crops",
+        "dosage": "2-3 ml/liter water"
+    },
+    "roundup": {
+        "description": "Systemic herbicide for perennial weeds.",
+        "application_method": "Spray weeds",
+        "dosage": "3-5 ml/liter water"
+    }
+}

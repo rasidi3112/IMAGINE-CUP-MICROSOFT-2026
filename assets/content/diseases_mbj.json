@@ -1,0 +1,68 @@
+{
+    "rice_blast": {
+        "name": "Blas Fare",
+        "description": "Blas ake panyeki jamur nggori ganas ma karna kade Pyricularia oryzae. Panyeki ake nyarama lembu we'i pembibitan sambe panen. Panyeki ake sangat merugian lequ daerah lek kelembaban tinggi.",
+        "symptoms": "Bercana belah ketupat, leher malai patah",
+        "causes": "Jamur Pyricularia oryzae"
+    },
+    "rice_brown_spot": {
+        "name": "Bercana Coklat Fare",
+        "description": "Gejalana berupa bercana oval warna coklat lek titik tengana abu-abu atau mputi lequ dauna.",
+        "symptoms": "Bercana oval coklat",
+        "causes": "Jamur Bipolaris oryzae"
+    },
+    "rice_bacterial_leaf_blight": {
+        "name": "Hawar Daun (Kresek)",
+        "description": "Panyeki ake sangat merusak waktu musim ura lek angin kencang. Dauna kuning dari tepi.",
+        "symptoms": "Daun kuning ngering",
+        "causes": "Bakteri Xanthomonas"
+    },
+    "corn_downy_mildew": {
+        "name": "Bulai Jago",
+        "description": "Ancaman utama petani jago. Daun mputi kekuningan, tanama kerdil.",
+        "symptoms": "Daun mputi bergaris",
+        "causes": "Jamur Peronosclerospora"
+    },
+    "corn_leaf_blight": {
+        "name": "Hawar Daun Jago",
+        "description": "Bercana panjang warna abu-abu lequ dauna.",
+        "symptoms": "Bercana panjang abu-abu",
+        "causes": "Jamur Exserohilum"
+    },
+    "chili_anthracnose": {
+        "name": "Antraknosa Saha",
+        "description": "Panyeki paling merusak lequ bua saha. Bua busuk warna item.",
+        "symptoms": "Bua busuk cekung",
+        "causes": "Jamur Colletotrichum"
+    },
+    "chili_bacterial_wilt": {
+        "name": "Layu Bakteri",
+        "description": "Saha layu tiba-tiba padahal dauna masi hijau.",
+        "symptoms": "Layu mendadak",
+        "causes": "Bakteri Ralstonia"
+    },
+    "chili_yellow_leaf_curl": {
+        "name": "Virus Kuning",
+        "description": "Daun saha keriting warna kuning. Tanama kerdil.",
+        "symptoms": "Daun kuning keriting",
+        "causes": "Virus Gemini"
+    },
+    "onion_purple_blotch": {
+        "name": "Bercana Ungu Bawang",
+        "description": "Ada bercana ungu lequ daun bawang, daun patah.",
+        "symptoms": "Bercana ungu",
+        "causes": "Jamur Alternaria"
+    },
+    "onion_fusarium_basal_rot": {
+        "name": "Moler",
+        "description": "Daun bawang melintir kuning, umbi busuk.",
+        "symptoms": "Daun melintir, busuk",
+        "causes": "Jamur Fusarium"
+    },
+    "soybean_rust": {
+        "name": "Karat Kedelai",
+        "description": "Daun kedelai ada bintik merah coklat.",
+        "symptoms": "Bintik merah karat",
+        "causes": "Jamur Phakopsora"
+    }
+}

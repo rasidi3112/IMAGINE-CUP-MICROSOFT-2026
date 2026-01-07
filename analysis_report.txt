@@ -1,0 +1,145 @@
+Analyzing agrivision_ntb...                                     
+
+   info • Dangling library doc comment • lib/config/app_config.dart:1:1 • dangling_library_doc_comments
+   info • Dangling library doc comment • lib/models/agro_shop.dart:1:1 • dangling_library_doc_comments
+   info • Dangling library doc comment • lib/models/disease.dart:1:1 • dangling_library_doc_comments
+   info • Dangling library doc comment • lib/models/farm.dart:1:1 • dangling_library_doc_comments
+   info • Dangling library doc comment • lib/models/models.dart:1:1 • dangling_library_doc_comments
+   info • Dangling library doc comment • lib/models/outbreak_data.dart:1:1 • dangling_library_doc_comments
+   info • Dangling library doc comment • lib/models/pesticide.dart:1:1 • dangling_library_doc_comments
+   info • Dangling library doc comment • lib/models/plant.dart:1:1 • dangling_library_doc_comments
+   info • Dangling library doc comment • lib/models/weather.dart:1:1 • dangling_library_doc_comments
+   info • Statements in an if should be enclosed in a block • lib/models/weather.dart:69:7 • curly_braces_in_flow_control_structures
+   info • Statements in an if should be enclosed in a block • lib/models/weather.dart:77:7 • curly_braces_in_flow_control_structures
+   info • Statements in an if should be enclosed in a block • lib/models/weather.dart:83:7 • curly_braces_in_flow_control_structures
+   info • Statements in an if should be enclosed in a block • lib/models/weather.dart:93:7 • curly_braces_in_flow_control_structures
+   info • Statements in an if should be enclosed in a block • lib/models/weather.dart:97:7 • curly_braces_in_flow_control_structures
+   info • Statements in an if should be enclosed in a block • lib/models/weather.dart:103:7 • curly_braces_in_flow_control_structures
+   info • Statements in an if should be enclosed in a block • lib/models/weather.dart:447:7 • curly_braces_in_flow_control_structures
+   info • Dangling library doc comment • lib/screens/auth/onboarding_screen.dart:1:1 • dangling_library_doc_comments
+   info • The private field _selectedDistrict could be 'final' • lib/screens/auth/onboarding_screen.dart:248:10 • prefer_final_fields
+   info • The import of 'package:intl/intl.dart' is unnecessary because all of the used elements are also provided by the import of 'package:easy_localization/easy_localization.dart' • lib/screens/calendar/calendar_screen.dart:6:8 • unnecessary_import
+   info • The private field _messages could be 'final' • lib/screens/consultation/consultation_screen.dart:33:21 • prefer_final_fields
+   info • 'partialResults' is deprecated and shouldn't be used. Use SpeechListenOptions.partialResults instead • lib/screens/consultation/consultation_screen.dart:145:9 • deprecated_member_use
+   info • 'cancelOnError' is deprecated and shouldn't be used. Use SpeechListenOptions.cancelOnError instead • lib/screens/consultation/consultation_screen.dart:146:9 • deprecated_member_use
+   info • 'listenMode' is deprecated and shouldn't be used. Use SpeechListenOptions.listenMode instead • lib/screens/consultation/consultation_screen.dart:147:9 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/encyclopedia/disease_detail_screen.dart:92:39 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/encyclopedia/disease_detail_screen.dart:107:43 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/encyclopedia/disease_detail_screen.dart:121:49 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/encyclopedia/disease_detail_screen.dart:144:49 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/encyclopedia/disease_detail_screen.dart:243:58 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/encyclopedia/disease_detail_screen.dart:246:60 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/encyclopedia/disease_detail_screen.dart:328:35 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/encyclopedia/disease_detail_screen.dart:369:33 • deprecated_member_use
+   info • Statements in an if should be enclosed in a block • lib/screens/encyclopedia/disease_detail_screen.dart:452:7 • curly_braces_in_flow_control_structures
+   info • Statements in an if should be enclosed in a block • lib/screens/encyclopedia/disease_detail_screen.dart:455:7 • curly_braces_in_flow_control_structures
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/encyclopedia/disease_detail_screen.dart:492:44 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/encyclopedia/disease_detail_screen.dart:531:48 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/encyclopedia/encyclopedia_screen.dart:76:37 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/encyclopedia/encyclopedia_screen.dart:94:45 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/encyclopedia/encyclopedia_screen.dart:108:51 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/encyclopedia/encyclopedia_screen.dart:127:49 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/encyclopedia/encyclopedia_screen.dart:146:45 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/encyclopedia/encyclopedia_screen.dart:201:60 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/encyclopedia/encyclopedia_screen.dart:296:37 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/encyclopedia/encyclopedia_screen.dart:316:47 • deprecated_member_use
+   info • Statements in an if should be enclosed in a block • lib/screens/encyclopedia/encyclopedia_screen.dart:401:7 • curly_braces_in_flow_control_structures
+   info • Statements in an if should be enclosed in a block • lib/screens/encyclopedia/encyclopedia_screen.dart:404:7 • curly_braces_in_flow_control_structures
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/farm/farm_management_screen.dart:140:39 • deprecated_member_use
+   info • Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check • lib/screens/farm/farm_management_screen.dart:1026:46 • use_build_context_synchronously
+   info • Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check • lib/screens/farm/farm_management_screen.dart:1075:38 • use_build_context_synchronously
+   info • The import of 'package:intl/intl.dart' is unnecessary because all of the used elements are also provided by the import of 'package:easy_localization/easy_localization.dart' • lib/screens/history/history_screen.dart:6:8 • unnecessary_import
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/home/home_screen.dart:488:48 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/home/home_screen.dart:628:42 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/pesticide/pesticide_detail_screen.dart:90:39 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/pesticide/pesticide_detail_screen.dart:105:39 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/pesticide/pesticide_detail_screen.dart:133:59 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/pesticide/pesticide_detail_screen.dart:164:49 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/pesticide/pesticide_detail_screen.dart:185:41 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/pesticide/pesticide_detail_screen.dart:499:41 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/pesticide/pesticide_finder_screen.dart:88:37 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/pesticide/pesticide_finder_screen.dart:117:51 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/pesticide/pesticide_finder_screen.dart:136:49 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/pesticide/pesticide_finder_screen.dart:155:45 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/pesticide/pesticide_finder_screen.dart:219:62 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/pesticide/pesticide_finder_screen.dart:489:37 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/pesticide/pesticide_finder_screen.dart:512:52 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/pesticide/pesticide_finder_screen.dart:546:66 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/plant_guide/plant_detail_screen.dart:91:39 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/plant_guide/plant_detail_screen.dart:106:43 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/plant_guide/plant_detail_screen.dart:140:59 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/plant_guide/plant_detail_screen.dart:148:59 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/plant_guide/plant_detail_screen.dart:175:41 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/plant_guide/plant_detail_screen.dart:404:56 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/plant_guide/plant_detail_screen.dart:468:41 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/plant_guide/plant_detail_screen.dart:603:32 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/plant_guide/plant_detail_screen.dart:623:34 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/plant_guide/plant_detail_screen.dart:658:40 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/plant_guide/plant_guide_screen.dart:68:37 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/plant_guide/plant_guide_screen.dart:96:45 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/plant_guide/plant_guide_screen.dart:112:55 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/plant_guide/plant_guide_screen.dart:136:53 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/plant_guide/plant_guide_screen.dart:255:37 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/plant_guide/plant_guide_screen.dart:276:52 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/plant_guide/plant_guide_screen.dart:311:52 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/prediction/prediction_alert_screen.dart:115:37 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/prediction/prediction_alert_screen.dart:145:53 • deprecated_member_use
+   info • Use interpolation to compose strings and values • lib/screens/prediction/prediction_alert_screen.dart:233:20 • prefer_interpolation_to_compose_strings
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/prediction/prediction_alert_screen.dart:333:36 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/prediction/prediction_alert_screen.dart:345:38 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/prediction/prediction_alert_screen.dart:356:44 • deprecated_member_use
+   info • Use interpolation to compose strings and values • lib/screens/prediction/prediction_alert_screen.dart:444:19 • prefer_interpolation_to_compose_strings
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/prediction/prediction_alert_screen.dart:621:55 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/prediction/prediction_alert_screen.dart:623:41 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/prediction/prediction_alert_screen.dart:633:42 • deprecated_member_use
+   info • Statements in an if should be enclosed in a block • lib/screens/prediction/prediction_alert_screen.dart:768:7 • curly_braces_in_flow_control_structures
+   info • Statements in an if should be enclosed in a block • lib/screens/prediction/prediction_alert_screen.dart:770:7 • curly_braces_in_flow_control_structures
+   info • Dangling library doc comment • lib/screens/scan/scan_result_screen.dart:1:1 • dangling_library_doc_comments
+   info • Don't invoke 'print' in production code • lib/screens/scan/scan_screen.dart:94:7 • avoid_print
+   info • Don't invoke 'print' in production code • lib/screens/scan/scan_screen.dart:111:7 • avoid_print
+   info • Don't invoke 'print' in production code • lib/screens/scan/scan_screen.dart:126:7 • avoid_print
+   info • Don't invoke 'print' in production code • lib/screens/scan/scan_screen.dart:153:7 • avoid_print
+   info • Statements in an if should be enclosed in a block • lib/screens/weather/weather_dashboard_screen.dart:291:7 • curly_braces_in_flow_control_structures
+   info • Statements in an if should be enclosed in a block • lib/screens/weather/weather_dashboard_screen.dart:294:7 • curly_braces_in_flow_control_structures
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/weather/weather_dashboard_screen.dart:426:55 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/weather/weather_dashboard_screen.dart:528:37 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/weather/weather_dashboard_screen.dart:546:42 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/weather/weather_dashboard_screen.dart:560:51 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/weather/weather_dashboard_screen.dart:584:63 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/weather/weather_dashboard_screen.dart:606:53 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/weather/weather_dashboard_screen.dart:655:57 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/weather/weather_dashboard_screen.dart:667:49 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/weather/weather_dashboard_screen.dart:709:41 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/weather/weather_dashboard_screen.dart:934:43 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/weather/weather_dashboard_screen.dart:935:43 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/weather/weather_dashboard_screen.dart:940:48 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/weather/weather_dashboard_screen.dart:1045:53 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/weather/weather_dashboard_screen.dart:1056:64 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/weather/weather_dashboard_screen.dart:1217:48 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/weather/weather_dashboard_screen.dart:1358:43 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/weather/weather_dashboard_screen.dart:1423:26 • deprecated_member_use
+   info • Don't invoke 'print' in production code • lib/services/azure_openai_service.dart:43:9 • avoid_print
+   info • Don't invoke 'print' in production code • lib/services/azure_openai_service.dart:44:9 • avoid_print
+   info • Don't invoke 'print' in production code • lib/services/azure_openai_service.dart:48:7 • avoid_print
+   info • Don't invoke 'print' in production code • lib/services/azure_openai_service.dart:84:7 • avoid_print
+   info • Unnecessary braces in a string interpolation • lib/services/azure_openai_service.dart:138:80 • unnecessary_brace_in_string_interps
+   info • Dangling library doc comment • lib/services/content_service.dart:1:1 • dangling_library_doc_comments
+   info • Don't invoke 'print' in production code • lib/services/custom_vision_service.dart:21:7 • avoid_print
+   info • Don't invoke 'print' in production code • lib/services/custom_vision_service.dart:46:9 • avoid_print
+   info • Don't invoke 'print' in production code • lib/services/custom_vision_service.dart:47:9 • avoid_print
+   info • Don't invoke 'print' in production code • lib/services/custom_vision_service.dart:51:7 • avoid_print
+   info • Dangling library doc comment • lib/services/local_storage_service.dart:1:1 • dangling_library_doc_comments
+   info • The imported package 'path' isn't a dependency of the importing package • lib/services/local_storage_service.dart:8:8 • depend_on_referenced_packages
+   info • Dangling library doc comment • lib/services/location_service.dart:1:1 • dangling_library_doc_comments
+   info • Don't invoke 'print' in production code • lib/services/location_service.dart:40:7 • avoid_print
+   info • Don't invoke 'print' in production code • lib/services/location_service.dart:60:7 • avoid_print
+   info • Use interpolation to compose strings and values • lib/services/notification_service.dart:240:14 • prefer_interpolation_to_compose_strings
+   info • Use interpolation to compose strings and values • lib/services/notification_service.dart:264:14 • prefer_interpolation_to_compose_strings
+   info • Use interpolation to compose strings and values • lib/services/notification_service.dart:363:8 • prefer_interpolation_to_compose_strings
+   info • Use interpolation to compose strings and values • lib/services/notification_service.dart:450:34 • prefer_interpolation_to_compose_strings
+   info • Use interpolation to compose strings and values • lib/services/notification_service.dart:451:34 • prefer_interpolation_to_compose_strings
+   info • Use interpolation to compose strings and values • lib/services/notification_service.dart:452:34 • prefer_interpolation_to_compose_strings
+   info • Dangling library doc comment • lib/services/sync_service.dart:1:1 • dangling_library_doc_comments
+   info • The private field _pitch could be 'final' • lib/services/voice_output_service.dart:21:10 • prefer_final_fields
+   info • The private field _volume could be 'final' • lib/services/voice_output_service.dart:22:10 • prefer_final_fields
+

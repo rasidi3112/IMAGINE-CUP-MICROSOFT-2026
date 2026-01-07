@@ -1,0 +1,38 @@
+{
+    "rice": {
+        "name": "Fare",
+        "local_name": "Fare",
+        "description": "Tanama utama lequ Bima.",
+        "planting_info": {
+            "water_requirement": "Tinggi",
+            "soil_type": "Tana liat"
+        }
+    },
+    "corn": {
+        "name": "Jago",
+        "local_name": "Jago",
+        "description": "Tanama paling lue lequ peggunungan.",
+        "planting_info": {
+            "water_requirement": "Sedah",
+            "soil_type": "Tana berpasir"
+        }
+    },
+    "chili": {
+        "name": "Saha",
+        "local_name": "Saha",
+        "description": "Komoditas mahal.",
+        "planting_info": {
+            "water_requirement": "Sedah",
+            "soil_type": "Tana gembur"
+        }
+    },
+    "onion": {
+        "name": "Bawang",
+        "local_name": "Bawang",
+        "description": "Bawang merah khas Bima.",
+        "planting_info": {
+            "water_requirement": "Sedah",
+            "soil_type": "Tana berpasir"
+        }
+    }
+}

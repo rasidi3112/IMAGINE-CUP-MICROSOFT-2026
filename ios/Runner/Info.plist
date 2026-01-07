@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleDisplayName</key>
+	<string>Agrivision Ntb</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>agrivision_ntb</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(FLUTTER_BUILD_NAME)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>$(FLUTTER_BUILD_NUMBER)</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>CADisableMinimumFrameDurationOnPhone</key>
+	<true/>
+	<key>UIApplicationSupportsIndirectInputEvents</key>
+	<true/>
+	
+	<!-- Location Permissions -->
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>AgriVision NTB memerlukan akses lokasi untuk menandai posisi scan tanaman dan menampilkan peta sebaran penyakit di wilayah Anda.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>AgriVision NTB memerlukan akses lokasi untuk menandai posisi scan tanaman dan memberikan peringatan penyakit di sekitar Anda.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>AgriVision NTB memerlukan akses lokasi untuk memberikan peringatan penyakit tanaman di sekitar lokasi Anda.</string>
+	
+	<!-- Camera Permission -->
+	<key>NSCameraUsageDescription</key>
+	<string>AgriVision NTB memerlukan akses kamera untuk memindai dan mendeteksi penyakit pada daun tanaman Anda.</string>
+	
+	<!-- Photo Library Permission -->
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>AgriVision NTB memerlukan akses galeri foto untuk memilih gambar daun tanaman yang akan dianalisis.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>AgriVision NTB memerlukan izin untuk menyimpan hasil scan ke galeri foto Anda.</string>
+	
+	<!-- Microphone Permission (for voice features) -->
+	<key>NSMicrophoneUsageDescription</key>
+	<string>AgriVision NTB memerlukan akses mikrofon untuk fitur input suara.</string>
+	
+	<!-- Speech Recognition (for voice input) -->
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>AgriVision NTB memerlukan akses pengenalan suara untuk fitur konsultasi dengan suara.</string>
+</dict>
+</plist>

@@ -1,0 +1,17 @@
+{
+    "dithane_m45": {
+        "description": "Obat jamur kontak paling umum.",
+        "application_method": "Semprot rata di daun",
+        "dosage": "2-3 g/liter ai"
+    },
+    "score": {
+        "description": "Obat jamur sistemik untuk bercak daun.",
+        "application_method": "Semprot pas ada gejala",
+        "dosage": "0.5 ml/liter ai"
+    },
+    "gramoxone": {
+        "description": "Racun rumput kontak di pematang.",
+        "application_method": "Semprot rumput, jangan kena tanaman",
+        "dosage": "2-3 ml/liter ai"
+    }
+}

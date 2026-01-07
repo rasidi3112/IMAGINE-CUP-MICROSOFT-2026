@@ -1,0 +1,47 @@
+{
+    "rice": {
+        "name": "Pade",
+        "local_name": "Pare",
+        "description": "Taneman paling penting leq gumi Sasak.",
+        "planting_info": {
+            "water_requirement": "Tinggi",
+            "soil_type": "Tanaq liat"
+        }
+    },
+    "corn": {
+        "name": "Jagung",
+        "local_name": "Jagung",
+        "description": "Taneman nomer due paling penting.",
+        "planting_info": {
+            "water_requirement": "Sedeng",
+            "soil_type": "Tanaq berpasir"
+        }
+    },
+    "chili": {
+        "name": "Sebie",
+        "local_name": "Lombok",
+        "description": "Taneman paling luek te tanem mun musim panas.",
+        "planting_info": {
+            "water_requirement": "Sedeng",
+            "soil_type": "Tanaq gembur"
+        }
+    },
+    "onion": {
+        "name": "Bawang",
+        "local_name": "Bawang",
+        "description": "Bawang abang paling luek leq Lotim.",
+        "planting_info": {
+            "water_requirement": "Sedeng",
+            "soil_type": "Tanaq berpasir"
+        }
+    },
+    "banana": {
+        "name": "Gedang",
+        "local_name": "Puntiq",
+        "description": "Buaq paling murah dait luek.",
+        "planting_info": {
+            "water_requirement": "Tinggi",
+            "soil_type": "Tanaq subur"
+        }
+    }
+}

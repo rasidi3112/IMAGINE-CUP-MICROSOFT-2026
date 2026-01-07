@@ -1,0 +1,26 @@
+{
+    "rice": {
+        "name": "Padi",
+        "description": "Tanaman utama di Sumbawa.",
+        "planting_info": {
+            "water_requirement": "Tinggi",
+            "soil_type": "Tanah liat"
+        }
+    },
+    "corn": {
+        "name": "Jagung",
+        "description": "Tanaman utama kedua setelah padi.",
+        "planting_info": {
+            "water_requirement": "Sedang",
+            "soil_type": "Tanah berpasir"
+        }
+    },
+    "mungbean": {
+        "name": "Kacang Hijau",
+        "description": "Tanaman sela.",
+        "planting_info": {
+            "water_requirement": "Rendah",
+            "soil_type": "Semua tanah"
+        }
+    }
+}

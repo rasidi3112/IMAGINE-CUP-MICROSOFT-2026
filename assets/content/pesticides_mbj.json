@@ -1,0 +1,17 @@
+{
+    "dithane_m45": {
+        "description": "Obat jamur kontak ma paling umum.",
+        "application_method": "Semprot rata lequ dauna",
+        "dosage": "2-3 g/liter oi"
+    },
+    "score": {
+        "description": "Obat jamur sistemik kade bercana daun.",
+        "application_method": "Semprot pas ada gejala awal",
+        "dosage": "0.5 ml/liter oi"
+    },
+    "gramoxone": {
+        "description": "Racun rumput kontak lequ pematang.",
+        "application_method": "Semprot rumput, nde kena tanama",
+        "dosage": "2-3 ml/liter oi"
+    }
+}

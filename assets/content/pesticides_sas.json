@@ -1,0 +1,37 @@
+{
+    "dithane_m45": {
+        "description": "Obat jamur kontak sak paling umum.",
+        "application_method": "Semprot rate leq daun",
+        "dosage": "2-3 g/liter aeq"
+    },
+    "antracol": {
+        "description": "Obat jamur jari nyegah penyakiq.",
+        "application_method": "Semprot sementare ndekman arak penyakiq",
+        "dosage": "2 g/liter aeq"
+    },
+    "score": {
+        "description": "Obat jamur sistemik muk bercaq daun dait karat.",
+        "application_method": "Semprot pas arak gejale awal",
+        "dosage": "0.5 ml/liter aeq"
+    },
+    "regent": {
+        "description": "Racun sistemik muk ulat penggerek dait wereng.",
+        "application_method": "Semprot atau kocor",
+        "dosage": "2 ml/liter aeq"
+    },
+    "confidor": {
+        "description": "Racun sistemik muk kutu daun.",
+        "application_method": "Semprot atau kocor",
+        "dosage": "0.5-1 ml/liter aeq"
+    },
+    "gramoxone": {
+        "description": "Racun rumput kontak muk leq pematang.",
+        "application_method": "Semprot rumput, ndaq kenaq taneman",
+        "dosage": "2-3 ml/liter aeq"
+    },
+    "roundup": {
+        "description": "Racun rumput sistemik muk rumput tueq.",
+        "application_method": "Semprot rumput",
+        "dosage": "3-5 ml/liter aeq"
+    }
+}

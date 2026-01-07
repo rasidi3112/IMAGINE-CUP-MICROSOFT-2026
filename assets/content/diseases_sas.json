@@ -1,0 +1,206 @@
+{
+    "rice_blast": {
+        "name": "Blas Pade",
+        "description": "Blas niki penyakit jamur sak ganas leq pade. Gejalane arak bercaq belah ketupat leq daun. Pade bise mate mun ndaq te urus.",
+        "symptoms": "Bercaq belah ketupat, leher malai patah",
+        "causes": "Jamur Pyricularia oryzae"
+    },
+    "rice_brown_spot": {
+        "name": "Bercaq Coklat Pade",
+        "description": "Penyakit niki tande tanaq kuran sehat. Gejalane bercaq coklat leq daun pade. Gabeq bise jari ampaq.",
+        "symptoms": "Bercaq coklat leq daun",
+        "causes": "Jamur Bipolaris oryzae"
+    },
+    "rice_bacterial_leaf_blight": {
+        "name": "Kresek (Hawar Daun)",
+        "description": "Penyakit Kresek niki bahaye leq musim hujan. Daun pade nguning terus ngering leman pinggir. Bise nular lewat aeq ujan.",
+        "symptoms": "Daun ngering, berlendir kuning",
+        "causes": "Bakteri Xanthomonas"
+    },
+    "rice_sheath_blight": {
+        "name": "Busuk Pelepah",
+        "description": "Pelepah daun pade busuk, wernane abu-abu. Mun parah, pade bise rebah.",
+        "symptoms": "Bercaq abu-abu leq pelepah",
+        "causes": "Jamur Rhizoctonia"
+    },
+    "rice_tungro": {
+        "name": "Tungro",
+        "description": "Penyakit Tungro gara-gara wereng hijau. Daun pade jari kuning oranye, pade jari kerdil ndek mauk mauk gabeq.",
+        "symptoms": "Daun oranye, kerdil",
+        "causes": "Virus Tungro (Wereng Hijau)"
+    },
+    "rice_stem_rot": {
+        "name": "Busuk Batang",
+        "description": "Batang pade busuk leq bawaq, paran niki mauk rebah.",
+        "symptoms": "Batang item busuk",
+        "causes": "Jamur Sclerotium"
+    },
+    "corn_downy_mildew": {
+        "name": "Bulai Jagung",
+        "description": "Penyakit Bulai niki paling takutin petani jagung. Daun jari putiq bejalur-jalur. Jagung ndek mauk bebuah.",
+        "symptoms": "Daun putiq, kerdil",
+        "causes": "Jamur Peronosclerospora"
+    },
+    "corn_leaf_blight": {
+        "name": "Hawar Daun Jagung",
+        "description": "Bercaq panjang abu-abu leq daun jagung. Ngaruh leq hasil panen.",
+        "symptoms": "Bercaq panjang leq daun",
+        "causes": "Jamur Exserohilum"
+    },
+    "corn_rust": {
+        "name": "Karat Jagung",
+        "description": "Daun jagung arak bintil-bintil werna coklat maraq karat besi.",
+        "symptoms": "Bintil coklat karat",
+        "causes": "Jamur Puccinia"
+    },
+    "corn_stalk_rot": {
+        "name": "Busuk Batang Jagung",
+        "description": "Batang jagung busuk, lembek, teros rebah.",
+        "symptoms": "Batang busuk",
+        "causes": "Jamur Fusarium"
+    },
+    "corn_ear_rot": {
+        "name": "Busuk Tongkol",
+        "description": "Tongkol jagung bejamur, werna jambon atao item. Ndek bagu te kakan.",
+        "symptoms": "Tongkol bejamur",
+        "causes": "Jamur Fusarium/Aspergillus"
+    },
+    "corn_smut": {
+        "name": "Gosong Jagung",
+        "description": "Arak benjolan (tumor) isi debu item leq jagung.",
+        "symptoms": "Benjolan item",
+        "causes": "Jamur Ustilago"
+    },
+    "chili_anthracnose": {
+        "name": "Patek (Antraknosa)",
+        "description": "Penyakit Patek niki musuh petani sebie. Buaq sebie busuk, arak bercaq lekuk werna item/oranye.",
+        "symptoms": "Buaq busuk belekuk",
+        "causes": "Jamur Colletotrichum"
+    },
+    "chili_bacterial_wilt": {
+        "name": "Layu Bakteri",
+        "description": "Sebie layu tib-tibe padahal daun masih hijau. Batang mun te potong keluaq aeq butek.",
+        "symptoms": "Layu mendadak",
+        "causes": "Bakteri Ralstonia"
+    },
+    "chili_fusarium_wilt": {
+        "name": "Layu Fusarium",
+        "description": "Sebie layu pelan-pelan, daun nguning leman bawaq. Akarne busuk.",
+        "symptoms": "Layu, daun kuning",
+        "causes": "Jamur Fusarium"
+    },
+    "chili_cercospora_leaf_spot": {
+        "name": "Bercaq Daun Mata Katak",
+        "description": "Bercaq bulet leq daun, tengaqne abu-abu tepi item. Daun rontok.",
+        "symptoms": "Bercaq mata katak",
+        "causes": "Jamur Cercospora"
+    },
+    "chili_powdery_mildew": {
+        "name": "Embun Tepung",
+        "description": "Arak tipung putiq leq bawaq daun sebie. Daun nggulung terus rontok.",
+        "symptoms": "Tipung putiq leq daun",
+        "causes": "Jamur Leveillula"
+    },
+    "chili_yellow_leaf_curl": {
+        "name": "Virus Kuning (Gemini)",
+        "description": "Daun sebie keriting dait werna kuning. Taneman kerdil ndek mauk buaq. Gara-gara kutu kebul.",
+        "symptoms": "Daun kuning keriting",
+        "causes": "Virus Gemini"
+    },
+    "chili_phytophthora_blight": {
+        "name": "Busuk Batang/Akar",
+        "description": "Penyakit maut leq musim ujan. Akar busuk, batang item, buaq busuk.",
+        "symptoms": "Busuk baseq",
+        "causes": "Phytophthora"
+    },
+    "tomato_late_blight": {
+        "name": "Busuk Daun",
+        "description": "Penyakit leq hawuq dingin dait basah. Daun item busuk, buaq milu busuk.",
+        "symptoms": "Daun dait buaq busuk",
+        "causes": "Phytophthora"
+    },
+    "tomato_bacterial_wilt": {
+        "name": "Layu Bakteri Tomat",
+        "description": "Tomat mate layu mendadak.",
+        "symptoms": "Layu, batang berlendir",
+        "causes": "Bakteri Ralstonia"
+    },
+    "tomato_yellow_leaf_curl": {
+        "name": "Virus Kuning Tomat",
+        "description": "Daun tomat ngeriting ke atas, werna kuning. Ndek mauk bebuah.",
+        "symptoms": "Daun kuning ngeriting",
+        "causes": "Virus TYLCV"
+    },
+    "tomato_blossom_end_rot": {
+        "name": "Busuk Pantat Buah",
+        "description": "Buaq tomat item leq ujungne. Gara-gara kurang Kalsium.",
+        "symptoms": "Pantat buaq item",
+        "causes": "Kurang Kalsium"
+    },
+    "onion_purple_blotch": {
+        "name": "Trotol / Bercaq Ungu",
+        "description": "Daun bawang arak bercaq ungu, terus patah. Bawang ndek mauk gede.",
+        "symptoms": "Bercaq ungu, daun patah",
+        "causes": "Jamur Alternaria"
+    },
+    "onion_fusarium_basal_rot": {
+        "name": "Moler",
+        "description": "Daun bawang melintir kuning, akar busuk. Ndek laku te jual.",
+        "symptoms": "Daun melintir, umbi busuk",
+        "causes": "Jamur Fusarium"
+    },
+    "onion_anthracnose": {
+        "name": "Otomatis (Antraknosa)",
+        "description": "Bawang mate mendadak. Leher batang busuk.",
+        "symptoms": "Batang busuk, daun mati",
+        "causes": "Jamur Colletotrichum"
+    },
+    "soybean_rust": {
+        "name": "Karat Kedelai",
+        "description": "Daun kedelai arak bintik merah, cepet rontok.",
+        "symptoms": "Bintik merah karat",
+        "causes": "Jamur Phakopsora"
+    },
+    "peanut_leaf_spot": {
+        "name": "Bercaq Daun Kacang",
+        "description": "Daun kacang arak bercaq item, kuning teros rontok.",
+        "symptoms": "Bercaq bulet item",
+        "causes": "Jamur Cercospora"
+    },
+    "banana_fusarium_wilt": {
+        "name": "Layu Pisang",
+        "description": "Gedang layu, daun kuning nunduk. Batang dalemne werna coklat.",
+        "symptoms": "Daun layu, batang coklat",
+        "causes": "Jamur Fusarium"
+    },
+    "banana_sigatoka": {
+        "name": "Sigatoka",
+        "description": "Daun gedang arak garis-garis item ngering.",
+        "symptoms": "Garis item leq daun",
+        "causes": "Jamur Mycosphaerella"
+    },
+    "banana_bunchy_top": {
+        "name": "Kerdil Pisang",
+        "description": "Daun gedang numpuk leq atas, kerdil.",
+        "symptoms": "Daun numpuk kerdil",
+        "causes": "Virus BBTV"
+    },
+    "mango_anthracnose": {
+        "name": "Antraknosa Mangga",
+        "description": "Buaq mangga arak bercaq item, cepet busuk.",
+        "symptoms": "Bercaq item leq buaq",
+        "causes": "Jamur Colletotrichum"
+    },
+    "watermelon_fusarium_wilt": {
+        "name": "Layu Semangka",
+        "description": "Semangka layu separo, teros mate.",
+        "symptoms": "Layu, batang coklat",
+        "causes": "Fusarium"
+    },
+    "cabbage_clubroot": {
+        "name": "Akar Gada",
+        "description": "Akar kol bengkak jari gede. Taneman layu.",
+        "symptoms": "Akar bengkak",
+        "causes": "Plasmodiophora"
+    }
+}

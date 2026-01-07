@@ -1,0 +1,92 @@
+{
+    "rice": {
+        "name": "Rice",
+        "local_name": "Padi",
+        "description": "Main food crop in NTB with famous local varieties.",
+        "planting_info": {
+            "water_requirement": "High",
+            "soil_type": "Clay loam"
+        }
+    },
+    "corn": {
+        "name": "Corn",
+        "local_name": "Jagung",
+        "description": "Second most important food crop, widely grown in Sumbawa and Bima.",
+        "planting_info": {
+            "water_requirement": "Medium",
+            "soil_type": "Sandy loam"
+        }
+    },
+    "chili": {
+        "name": "Chili",
+        "local_name": "Cabai",
+        "description": "High-value horticultural commodity in NTB.",
+        "planting_info": {
+            "water_requirement": "Medium",
+            "soil_type": "Loose loam"
+        }
+    },
+    "onion": {
+        "name": "Shallot",
+        "local_name": "Bawang Merah",
+        "description": "National strategic commodity. East Lombok is the largest center.",
+        "planting_info": {
+            "water_requirement": "Medium",
+            "soil_type": "Sandy loam"
+        }
+    },
+    "tomato": {
+        "name": "Tomato",
+        "local_name": "Tomat",
+        "description": "Popular fruit vegetable in medium altitude areas of NTB.",
+        "planting_info": {
+            "water_requirement": "Medium",
+            "soil_type": "Loose loam"
+        }
+    },
+    "watermelon": {
+        "name": "Watermelon",
+        "local_name": "Semangka",
+        "description": "Popular fruit in dry lands of NTB during dry season.",
+        "planting_info": {
+            "water_requirement": "Medium",
+            "soil_type": "Sandy loam"
+        }
+    },
+    "soybean": {
+        "name": "Soybean",
+        "local_name": "Kedelai",
+        "description": "Potential plant-based protein source in dry lands.",
+        "planting_info": {
+            "water_requirement": "Medium",
+            "soil_type": "Well-drained loam"
+        }
+    },
+    "peanut": {
+        "name": "Peanut",
+        "local_name": "Kacang Tanah",
+        "description": "Legume suitable for rotation after rice.",
+        "planting_info": {
+            "water_requirement": "Medium",
+            "soil_type": "Loose sandy loam"
+        }
+    },
+    "mungbean": {
+        "name": "Mung Bean",
+        "local_name": "Kacang Hijau",
+        "description": "Short-duration legume for intercropping and rotation.",
+        "planting_info": {
+            "water_requirement": "Low-Medium",
+            "soil_type": "Various types"
+        }
+    },
+    "banana": {
+        "name": "Banana",
+        "local_name": "Pisang",
+        "description": "Fruit widely found in NTB home gardens and orchards.",
+        "planting_info": {
+            "water_requirement": "High",
+            "soil_type": "Fertile loose loam"
+        }
+    }
+}

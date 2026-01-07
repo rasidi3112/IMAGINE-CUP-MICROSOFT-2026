@@ -1,0 +1,80 @@
+{
+    "rice_blast": {
+        "name": "Blas Padi",
+        "description": "Penyakit jamur ganas di padi. Bercak belah ketupat di daun, leher malai patah busuk.",
+        "symptoms": "Bercak belah ketupat, leher patah",
+        "causes": "Jamur Pyricularia oryzae"
+    },
+    "rice_brown_spot": {
+        "name": "Bercak Coklat",
+        "description": "Tanda tanah kurang sehat. Bercak coklat oval di daun.",
+        "symptoms": "Bercak oval coklat",
+        "causes": "Jamur Bipolaris oryzae"
+    },
+    "rice_bacterial_leaf_blight": {
+        "name": "Kresek",
+        "description": "Daun padi menguning dan kering dari pinggir. Parah saat musim hujan.",
+        "symptoms": "Daun kering kuning",
+        "causes": "Bakteri Xanthomonas"
+    },
+    "rice_tungro": {
+        "name": "Tungro",
+        "description": "Padi kerdil warna oranye. Disebabkan wereng hijau.",
+        "symptoms": "Kerdil, daun oranye",
+        "causes": "Virus Tungro"
+    },
+    "corn_downy_mildew": {
+        "name": "Bulai Jagung",
+        "description": "Daun jagung putih bergaris. Tanaman kerdil tidak berbuah.",
+        "symptoms": "Daun putih bergaris",
+        "causes": "Jamur Peronosclerospora"
+    },
+    "corn_leaf_blight": {
+        "name": "Hawar Daun",
+        "description": "Bercak panjang abu-abu di daun jagung.",
+        "symptoms": "Bercak panjang",
+        "causes": "Jamur Exserohilum"
+    },
+    "chili_anthracnose": {
+        "name": "Patek",
+        "description": "Buah cabai busuk berair, warna hitam atau oranye.",
+        "symptoms": "Buah busuk cekung",
+        "causes": "Jamur Colletotrichum"
+    },
+    "chili_bacterial_wilt": {
+        "name": "Layu Bakteri",
+        "description": "Cabai layu mendadak, batang berlendir.",
+        "symptoms": "Layu mendadak",
+        "causes": "Bakteri Ralstonia"
+    },
+    "chili_yellow_leaf_curl": {
+        "name": "Virus Kuning",
+        "description": "Daun keriting kuning, tanaman kerdil.",
+        "symptoms": "Keriting kuning",
+        "causes": "Virus Gemini"
+    },
+    "onion_purple_blotch": {
+        "name": "Bercak Ungu",
+        "description": "Bercak ungu di daun bawang, daun patah.",
+        "symptoms": "Bercak ungu",
+        "causes": "Jamur Alternaria"
+    },
+    "onion_fusarium_basal_rot": {
+        "name": "Moler",
+        "description": "Daun bawang melintir kuning, akar busuk.",
+        "symptoms": "Daun melintir",
+        "causes": "Jamur Fusarium"
+    },
+    "onion_anthracnose": {
+        "name": "Otomatis",
+        "description": "Leher batang bawang busuk, mati cepat.",
+        "symptoms": "Batang busuk",
+        "causes": "Jamur Colletotrichum"
+    },
+    "soybean_rust": {
+        "name": "Karat Kedelai",
+        "description": "Bintik karat di daun kedelai.",
+        "symptoms": "Bintik karat",
+        "causes": "Jamur Phakopsora"
+    }
+}

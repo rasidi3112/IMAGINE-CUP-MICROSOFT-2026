@@ -1,0 +1,482 @@
+{
+    "rice_blast": {
+        "name": "Rice Blast",
+        "description": "Rice blast is a fungal disease caused by Pyricularia oryzae. It attacks all growth stages of rice. In vegetative stage, diamond-shaped spots appear on leaves (Leaf Blast). In generative stage, it attacks the neck of the panicle (Neck Blast) causing it to rot and break, resulting in empty grains. High humidity and excessive Nitrogen fertilizer worsen the condition.",
+        "symptoms": "Diamond-shaped spots, brown borders, gray centers, broken panicle neck",
+        "causes": "Fungus Pyricularia oryzae"
+    },
+    "rice_brown_spot": {
+        "name": "Brown Spot",
+        "description": "Caused by Bipolaris oryzae, often indicating poor soil health (lack of K, Si). Symptoms include oval brown spots with gray or white centers (sedame seed-like). Severe attacks cause leaves to dry and reduce grain quality.",
+        "symptoms": "Oval brown spots with gray centers, seedling blight, spotted grains",
+        "causes": "Fungus Bipolaris oryzae"
+    },
+    "rice_bacterial_leaf_blight": {
+        "name": "Bacterial Leaf Blight",
+        "description": "Known as 'Kresek', caused by Xanthomonas oryzae. Destructive in rainy seasons with strong winds. Water-soaked streaks on leaf edges turn yellow and dry to straw-white. Can cause total wilting in seedlings.",
+        "symptoms": "Yellowing from leaf edges, wilting, yellow bacterial ooze",
+        "causes": "Bacteria Xanthomonas oryzae pv. oryzae"
+    },
+    "rice_sheath_blight": {
+        "name": "Sheath Blight",
+        "description": "Caused by Rhizoctonia solani. Attacks leaf sheaths causing large oval greenish-gray spots with irregular brown borders. Can spread to flag leaves, causing lodging and poor grain filling.",
+        "symptoms": "Oval greenish-gray spots on sheath, brown sclerotia",
+        "causes": "Fungus Rhizoctonia solani"
+    },
+    "rice_tungro": {
+        "name": "Rice Tungro",
+        "description": "Viral disease transmitted by green leafhoppers. Causes yellow-orange discoloration starting from leaf tips, stunted growth, and reduced tillering. Can cause total crop failure.",
+        "symptoms": "Yellow-orange leaves, stunted plants, few tillers",
+        "causes": "RTBV and RTSV viruses transmitted by green leafhoppers"
+    },
+    "rice_grassy_stunt": {
+        "name": "Grassy Stunt",
+        "description": "Viral disease causing rice to appear grass-like. Plants are severely stunted with many small tillers and narrow leaves.",
+        "symptoms": "Severely stunted, excessive small tillers, narrow leaves",
+        "causes": "Rice Grassy Stunt Virus (RGSV) transmitted by brown planthoppers"
+    },
+    "rice_ragged_stunt": {
+        "name": "Ragged Stunt",
+        "description": "Viral disease causing ragged, serrated leaves and stunted growth.",
+        "symptoms": "Ragged leaves, swollen veins, stunted plants",
+        "causes": "Rice Ragged Stunt Virus (RRSV) transmitted by brown planthoppers"
+    },
+    "rice_stem_rot": {
+        "name": "Stem Rot",
+        "description": "Fungal disease causing stalks to rot and lodge. Black lesions appear near the water line.",
+        "symptoms": "Black lesions on lower stem, lodging, black sclerotia",
+        "causes": "Fungus Sclerotium oryzae"
+    },
+    "rice_leaf_scald": {
+        "name": "Leaf Scald",
+        "description": "Fungal disease causing scalded appearance on leaf tips. Lesions show zonation.",
+        "symptoms": "Light brown zoned lesions on leaf tips, wavy edges",
+        "causes": "Fungus Rhynchosporium oryzae"
+    },
+    "rice_false_smut": {
+        "name": "False Smut",
+        "description": "Attacks individual grains, transforming them into large velvety spore balls (orange to black). Contaminates harvest and produces toxins.",
+        "symptoms": "Yellow to black spore balls replacing grains",
+        "causes": "Fungus Ustilaginoidea virens"
+    },
+    "rice_narrow_brown_spot": {
+        "name": "Narrow Brown Spot",
+        "description": "Characterized by short, linear, narrow brown spots parallel to leaf veins.",
+        "symptoms": "Linear narrow brown spots on leaves",
+        "causes": "Fungus Cercospora janseana"
+    },
+    "rice_bakanae": {
+        "name": "Bakanae Disease",
+        "description": "Seed-borne fungal disease causing abnormal elongation ('foolish seedling'). Plants are tall, thin, pale, and often die before flowering.",
+        "symptoms": "Abnormally tall and thin plants, pale yellow, aerial roots",
+        "causes": "Fungus Fusarium fujikuroi"
+    },
+    "corn_downy_mildew": {
+        "name": "Downy Mildew",
+        "description": "Major threat to corn. Systemic infection causes chlorotic yellow stripes on leaves and white downy growth underneath. Plants become stunted and barren.",
+        "symptoms": "Yellowish-white stripes, white downy growth, stunted plants",
+        "causes": "Fungus Peronosclerospora maydis"
+    },
+    "corn_leaf_blight": {
+        "name": "Northern Corn Leaf Blight",
+        "description": "Causes long cigar-shaped grayish-green lesions on leaves. Heavily infected leaves dry out, reducing grain yield.",
+        "symptoms": "Long elliptical gray-green lesions (cigar shaped)",
+        "causes": "Fungus Exserohilum turcicum"
+    },
+    "corn_rust": {
+        "name": "Common Rust",
+        "description": "Reddish-brown pustules on both leaf surfaces. Spores rub off like rust powder. Can cause early leaf senescence.",
+        "symptoms": "Reddish-brown pustules on leaves",
+        "causes": "Fungus Puccinia sorghi"
+    },
+    "corn_southern_rust": {
+        "name": "Southern Rust",
+        "description": "More aggressive than common rust. Pustules are smaller, orange, and mainly on the upper leaf surface.",
+        "symptoms": "Small orange pustules on upper leaf surface",
+        "causes": "Fungus Puccinia polysora"
+    },
+    "corn_stalk_rot": {
+        "name": "Stalk Rot",
+        "description": "Causes stalks to rot, become soft, and plants to lodge. Interior pith disintegrates.",
+        "symptoms": "Soft rotting stalks, lodging, internal discoloration",
+        "causes": "Fungus Fusarium sp., Pythium sp."
+    },
+    "corn_ear_rot": {
+        "name": "Ear Rot",
+        "description": "Fungal infection of ears causing moldy grains (pink, white, or black). Produces dangerous mycotoxins.",
+        "symptoms": "Moldy grains, pink/white mycelium on ear",
+        "causes": "Fungus Fusarium verticillioides, Aspergillus sp."
+    },
+    "corn_gray_leaf_spot": {
+        "name": "Gray Leaf Spot",
+        "description": "Rectangular gray lesions delimited by leaf veins. Common in humid conditions.",
+        "symptoms": "Rectangular gray spots restricted by veins",
+        "causes": "Fungus Cercospora zeae-maydis"
+    },
+    "corn_maize_streak": {
+        "name": "Maize Streak Virus",
+        "description": "Viral disease causing broken yellow streaks on leaves. Transmitted by leafhoppers.",
+        "symptoms": "Broken yellow streaks, stunted growth",
+        "causes": "Maize Streak Virus (MSV)"
+    },
+    "corn_smut": {
+        "name": "Common Smut",
+        "description": "Forms large whitish galls (tumors) filled with black spores on ears, stalks, or leaves.",
+        "symptoms": "Large galls/tumors filled with black powder",
+        "causes": "Fungus Ustilago maydis"
+    },
+    "corn_leaf_spot": {
+        "name": "Curvularia Leaf Spot",
+        "description": "Small oval necrotic spots with yellow halos.",
+        "symptoms": "Small brown spots with yellow halos",
+        "causes": "Fungus Curvularia lunata"
+    },
+    "corn_crazy_top": {
+        "name": "Crazy Top",
+        "description": "Causes the tassel to proliferate into a mass of leafy structures.",
+        "symptoms": "Bushy proliferation of tassel, thickened leaves",
+        "causes": "Fungus Sclerophthora macrospora"
+    },
+    "corn_bacterial_stalk_rot": {
+        "name": "Bacterial Stalk Rot",
+        "description": "Rapid soft rot of the stalk with foul odor.",
+        "symptoms": "Soft mushy stalk, foul smell, plant collapse",
+        "causes": "Bacteria Erwinia chrysanthemi"
+    },
+    "chili_anthracnose": {
+        "name": "Anthracnose",
+        "description": "Destructive disease on chili fruits. Causes sunken circular spots with concentric rings of orange/black spores. Fruits rot and shrivel.",
+        "symptoms": "Sunken spots with concentric rings on fruit",
+        "causes": "Fungus Colletotrichum spp."
+    },
+    "chili_bacterial_wilt": {
+        "name": "Bacterial Wilt",
+        "description": "Sudden wilting of plants while leaves remain green. Milky white bacterial ooze streams from cut stems in water.",
+        "symptoms": "Sudden wilting, bacterial ooze from cut stem",
+        "causes": "Bacteria Ralstonia solanacearum"
+    },
+    "chili_fusarium_wilt": {
+        "name": "Fusarium Wilt",
+        "description": "yellowing of lower leaves, often on one side, followed by wilting. Vascular tissue turns brown.",
+        "symptoms": "Leaf yellowing, one-sided wilting, brown vascular ring",
+        "causes": "Fungus Fusarium oxysporum"
+    },
+    "chili_cercospora_leaf_spot": {
+        "name": "Cercospora Leaf Spot",
+        "description": "Leaf spots with gray centers and dark borders ('frogeye'). Causes defoliation.",
+        "symptoms": "Circular spots with gray centers and dark margins",
+        "causes": "Fungus Cercospora capsici"
+    },
+    "chili_powdery_mildew": {
+        "name": "Powdery Mildew",
+        "description": "White powdery growth on leaf undersides. Leaves turn yellow and drop.",
+        "symptoms": "White powder on leaves, leaf curling/yellowing",
+        "causes": "Fungus Leveillula taurica"
+    },
+    "chili_phytophthora_blight": {
+        "name": "Phytophthora Blight",
+        "description": "Attacks all plant parts. Causes root rot, stem lesions, and fruit rot. Plants wilt and die.",
+        "symptoms": "Stem lesions, root rot, fruit rot, wilting",
+        "causes": "Oomycete Phytophthora capsici"
+    },
+    "chili_mosaic_virus": {
+        "name": "Chili Mosaic Virus",
+        "description": "Viral infection causing mottled light/dark green patterns on leaves, wrinkling, and stunted growth.",
+        "symptoms": "Mosaic pattern on leaves, leaf curling, stunted plants",
+        "causes": "CMV or ChiVMV viruses"
+    },
+    "chili_yellow_leaf_curl": {
+        "name": "Yellow Leaf Curl",
+        "description": "Transmitted by whiteflies. Leaves curl upward, turn yellow, and plants become severely stunted. No fruit production.",
+        "symptoms": "Yellowing, upward leaf curling, stunting",
+        "causes": "Pepper Yellow Leaf Curl Virus (PepYLCV)"
+    },
+    "chili_bacterial_spot": {
+        "name": "Bacterial Spot",
+        "description": "Small water-soaked spots on leaves and raised rough spots on fruits.",
+        "symptoms": "Small dark spots on leaves, scab-like spots on fruit",
+        "causes": "Bacteria Xanthomonas campestris pv. vesicatoria"
+    },
+    "chili_damping_off": {
+        "name": "Damping Off",
+        "description": "Seedlings rot at soil line and fall over.",
+        "symptoms": "Seedling stem constriction, collapse",
+        "causes": "Pythium, Rhizoctonia, or Phytophthora"
+    },
+    "chili_leaf_curl": {
+        "name": "Leaf Curl",
+        "description": "Leaves curl, thicken, and become distorted. Caused by mites or virus.",
+        "symptoms": "Downward curling, thickened leaves",
+        "causes": "Mites or Virus"
+    },
+    "chili_root_knot": {
+        "name": "Root Knot Nematode",
+        "description": "Parasitic nematodes cause galls or knots on roots, blocking nutrient uptake.",
+        "symptoms": "Galls/knots on roots, stunting, wilting",
+        "causes": "Meloidogyne spp. nematodes"
+    },
+    "tomato_late_blight": {
+        "name": "Late Blight",
+        "description": "Deadly disease in cool wet weather. Water-soaked spots on leaves turn black. White mold on undersides. Fruits rot.",
+        "symptoms": "Black leaf lesions, white mold, fruit rot",
+        "causes": "Oomycete Phytophthora infestans"
+    },
+    "tomato_early_blight": {
+        "name": "Early Blight",
+        "description": "Target-like bullseye spots on older leaves. Leaves turn yellow and drop.",
+        "symptoms": "Concentric ring spots (bullseye) on leaves",
+        "causes": "Fungus Alternaria solani"
+    },
+    "tomato_fusarium_wilt": {
+        "name": "Fusarium Wilt",
+        "description": "Soil-borne fungus blocks water vessels. Lower leaves yellow and wilt. Brown vascular tissue.",
+        "symptoms": "Yellowing, wilting, brown vascular discoloration",
+        "causes": "Fungus Fusarium oxysporum f.sp. lycopersici"
+    },
+    "tomato_bacterial_wilt": {
+        "name": "Bacterial Wilt",
+        "description": "Rapid wilting without yellowing. Bacterial stream test positive.",
+        "symptoms": "Rapid wilting, green leaves, bacterial ooze",
+        "causes": "Bacteria Ralstonia solanacearum"
+    },
+    "tomato_leaf_mold": {
+        "name": "Leaf Mold",
+        "description": "Yellow spots on upper leaf surface, olive-green velvety mold on underside. Common in greenhouses.",
+        "symptoms": "Yellow spots above, olive mold below",
+        "causes": "Fungus Passalora fulva"
+    },
+    "tomato_septoria_leaf_spot": {
+        "name": "Septoria Leaf Spot",
+        "description": "Small circular spots with gray centers and black specks.",
+        "symptoms": "Small spots with gray centers",
+        "causes": "Fungus Septoria lycopersici"
+    },
+    "tomato_mosaic": {
+        "name": "Tomato Mosaic",
+        "description": "Mottled leaves, fern-like leaves, streaked fruit.",
+        "symptoms": "Leaf mosaic, mottling, distortion",
+        "causes": "Tomato Mosaic Virus (ToMV)"
+    },
+    "tomato_yellow_leaf_curl": {
+        "name": "Yellow Leaf Curl",
+        "description": "Spread by whiteflies. Leaves curl upward, yellow margin, stunting, flower drop.",
+        "symptoms": "Upward curling, yellow edges, stunting",
+        "causes": "Tomato Yellow Leaf Curl Virus (TYLCV)"
+    },
+    "tomato_blossom_end_rot": {
+        "name": "Blossom End Rot",
+        "description": "Calcium deficiency causing black sunken rot on the blossom end of fruit.",
+        "symptoms": "Black sunken spot on fruit bottom",
+        "causes": "Calcium deficiency, irregular watering"
+    },
+    "tomato_target_spot": {
+        "name": "Target Spot",
+        "description": "Brown spots with concentric rings, similar to early blight but often larger.",
+        "symptoms": "Zoned brown lesions",
+        "causes": "Fungus Corynespora cassiicola"
+    },
+    "onion_purple_blotch": {
+        "name": "Purple Blotch",
+        "description": "Oval white spots enlarge to become purple with concentric rings. Leaves girdle and fall.",
+        "symptoms": "Purple oval spots with zones",
+        "causes": "Fungus Alternaria porri"
+    },
+    "onion_downy_mildew": {
+        "name": "Downy Mildew",
+        "description": "Pale spots and violet fungal growth on leaves. Leaves collapse.",
+        "symptoms": "Violet mold on leaves, leaf collapse",
+        "causes": "Fungus Peronospora destructor"
+    },
+    "onion_fusarium_basal_rot": {
+        "name": "Fusarium Basal Rot",
+        "description": "Roots rot, basal plate turns pinkish-brown, leaves yellow from tips ('Moler').",
+        "symptoms": "Root rot, pink basal plate, twisted leaves",
+        "causes": "Fungus Fusarium oxysporum"
+    },
+    "onion_anthracnose": {
+        "name": "Anthracnose (Twister)",
+        "description": "Leaves twist, curl, and have sunken oval white/orange lesions. Rapid death.",
+        "symptoms": "Twisted leaves, sunken lesions",
+        "causes": "Fungus Colletotrichum gloeosporioides"
+    },
+    "onion_white_rot": {
+        "name": "White Rot",
+        "description": "Fluffy white mold on base of bulb with black sclerotia.",
+        "symptoms": "White mold on bulb base, black specks",
+        "causes": "Fungus Sclerotium cepivorum"
+    },
+    "onion_bacterial_soft_rot": {
+        "name": "Bacterial Soft Rot",
+        "description": "Bulbs become soft, watery, and smell foul. Squeeze bulb to see ooze.",
+        "symptoms": "Soft smelly bulb, watery rot",
+        "causes": "Bacteria Erwinia carotovora"
+    },
+    "onion_stemphylium_blight": {
+        "name": "Stemphylium Blight",
+        "description": "Small light yellow to brown spots, often follows purple blotch.",
+        "symptoms": "Small tan spots on leaves",
+        "causes": "Fungus Stemphylium vesicarium"
+    },
+    "onion_leaf_blight": {
+        "name": "Botrytis Leaf Blight",
+        "description": "Numerous small white spots on leaves.",
+        "symptoms": "White speckling on leaves",
+        "causes": "Fungus Botrytis squamosa"
+    },
+    "soybean_rust": {
+        "name": "Soybean Rust",
+        "description": "Aggressive disease causing reddish-brown pustules on lower leaves. Defoliation.",
+        "symptoms": "Tan/reddish pustules on leaves",
+        "causes": "Fungus Phakopsora pachyrhizi"
+    },
+    "soybean_anthracnose": {
+        "name": "Anthracnose",
+        "description": "Reddish-brown lesions on stems and pods. Seeds may be moldy.",
+        "symptoms": "Brown lesions on pods/stems",
+        "causes": "Fungus Colletotrichum truncatum"
+    },
+    "soybean_mosaic": {
+        "name": "Soybean Mosaic",
+        "description": "Leaves are crinkled and mottled. Seeds have staining.",
+        "symptoms": "Leaf puckering, mosaic pattern",
+        "causes": "Soybean Mosaic Virus (SMV)"
+    },
+    "soybean_bacterial_pustule": {
+        "name": "Bacterial Pustule",
+        "description": "Small raised pustules on leaves with yellow halos.",
+        "symptoms": "Raised bumps on leaves, yellow halo",
+        "causes": "Bacteria Xanthomonas"
+    },
+    "soybean_frogeye_leaf_spot": {
+        "name": "Frogeye Leaf Spot",
+        "description": "Circular gray spots with reddish-purple borders.",
+        "symptoms": "Gray spots with purple margins",
+        "causes": "Fungus Cercospora sojina"
+    },
+    "soybean_charcoal_rot": {
+        "name": "Charcoal Rot",
+        "description": "Microsclerotia make internal stem tissue look like charcoal dust. Hot dry weather disease.",
+        "symptoms": "Gray/black internal stem discoloration",
+        "causes": "Fungus Macrophomina phaseolina"
+    },
+    "soybean_sudden_death": {
+        "name": "Sudden Death Syndrome",
+        "description": "Interveinal necrosis on leaves, leaves drop leaving petioles. Root rot.",
+        "symptoms": "Yellow spots between veins, rapid death",
+        "causes": "Fungus Fusarium virguliforme"
+    },
+    "soybean_downy_mildew": {
+        "name": "Downy Mildew",
+        "description": "Pale yellow spots on top of leaves, gray fuzzy growth underneath.",
+        "symptoms": "Yellow spots, gray fuzz under leaf",
+        "causes": "Fungus Peronospora manshurica"
+    },
+    "peanut_leaf_spot": {
+        "name": "Leaf Spot",
+        "description": "Brown or black spots on leaves causing defoliation.",
+        "symptoms": "Dark spots on leaves, yellowing",
+        "causes": "Cercospora arachidicola"
+    },
+    "peanut_rust": {
+        "name": "Peanut Rust",
+        "description": "Orange pustules on undersides of leaves.",
+        "symptoms": "Rust-colored pustules under leaves",
+        "causes": "Fungus Puccinia arachidis"
+    },
+    "peanut_bacterial_wilt": {
+        "name": "Bacterial Wilt",
+        "description": "Sudden wilting of whole plant.",
+        "symptoms": "Wilting, bacterial ooze",
+        "causes": "Bacteria Ralstonia solanacearum"
+    },
+    "mungbean_powdery_mildew": {
+        "name": "Powdery Mildew",
+        "description": "White powdery growth on leaves.",
+        "symptoms": "White powder on leaf surface",
+        "causes": "Fungus Erysiphe polygoni"
+    },
+    "mungbean_cercospora_leaf_spot": {
+        "name": "Cercospora Leaf Spot",
+        "description": "Circular brown leaf spots.",
+        "symptoms": "Brown leaf spots",
+        "causes": "Fungus Cercospora canescens"
+    },
+    "longbean_rust": {
+        "name": "Rust",
+        "description": "Reddish-brown pustules on leaves/pods.",
+        "symptoms": "Rust pustules",
+        "causes": "Fungus Uromyces appendiculatus"
+    },
+    "banana_fusarium_wilt": {
+        "name": "Panama Disease",
+        "description": "Lethal wilt disease. Leaves turn yellow and hang down like a skirt. Vascular discoloration.",
+        "symptoms": "Yellow wilting leaves, internal brown rings",
+        "causes": "Fungus Fusarium oxysporum f.sp. cubense"
+    },
+    "banana_sigatoka": {
+        "name": "Black Sigatoka",
+        "description": "Dark streaks on leaves causing necrosis and yield loss.",
+        "symptoms": "Black streaks on leaves",
+        "causes": "Fungus Mycosphaerella fijiensis"
+    },
+    "banana_bunchy_top": {
+        "name": "Bunchy Top",
+        "description": "Leaves bunch at top, dark green streaks on veins.",
+        "symptoms": "Bunced leaves, green streaks",
+        "causes": "Banana Bunchy Top Virus"
+    },
+    "mango_anthracnose": {
+        "name": "Anthracnose",
+        "description": "Black spots on leaves and fruits. Tear staining on fruit.",
+        "symptoms": "Black sunken spots on fruit",
+        "causes": "Fungus Colletotrichum gloeosporioides"
+    },
+    "mango_powdery_mildew": {
+        "name": "Powdery Mildew",
+        "description": "White powder on flowers and small fruits causing drop.",
+        "symptoms": "White mold on flowers/fruit",
+        "causes": "Fungus Oidium mangiferae"
+    },
+    "papaya_ringspot": {
+        "name": "Papaya Ringspot",
+        "description": "Ringspot patterns on fruit, mosaic on leaves.",
+        "symptoms": "Ringspots on fruit, leaf mosaic",
+        "causes": "Papaya Ringspot Virus"
+    },
+    "watermelon_fusarium_wilt": {
+        "name": "Fusarium Wilt",
+        "description": "Wilting of runners or whole plant. Brown stem discoloration.",
+        "symptoms": "Wilting, vascular browning",
+        "causes": "Fungus Fusarium oxysporum"
+    },
+    "watermelon_anthracnose": {
+        "name": "Anthracnose",
+        "description": "Angular leaf spots and sunken fruit lesions.",
+        "symptoms": "Sunken fruit spots, leaf spots",
+        "causes": "Fungus Colletotrichum orbiculare"
+    },
+    "cucumber_downy_mildew": {
+        "name": "Downy Mildew",
+        "description": "Yellow angular spots on leaves delimited by veins.",
+        "symptoms": "Angular yellow spots",
+        "causes": "Oomycete Pseudoperonospora cubensis"
+    },
+    "cucumber_powdery_mildew": {
+        "name": "Powdery Mildew",
+        "description": "White powdery spots on leaves and stems.",
+        "symptoms": "White powder on leaves",
+        "causes": "Fungus Podosphaera xanthii"
+    },
+    "cabbage_black_rot": {
+        "name": "Black Rot",
+        "description": "V-shaped yellow lesions on leaf margins with black veins.",
+        "symptoms": "V-shaped lesions, black veins",
+        "causes": "Bacteria Xanthomonas campestris"
+    },
+    "cabbage_clubroot": {
+        "name": "Clubroot",
+        "description": "Roots become swollen and club-like, preventing water update.",
+        "symptoms": "Swollen galled roots, wilting",
+        "causes": "Plasmodiophora brassicae"
+    }
+}
